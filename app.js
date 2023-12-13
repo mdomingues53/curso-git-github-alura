@@ -1,2 +1,3 @@
-console.log("Rodando o sistema de gerenciamneto de jogos");
 console.log("Inclusao de linha para teste do git pull");
+console.log("Editando aruqivo app.js para teste do comando git pull");
+
